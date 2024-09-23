@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Django stuff:
+*.log
+staticfiles/
+
+# Ignore .env file (optional, if you're using it for environment variables)
+.env
+
+# macOS-specific files
+.DS_Store
